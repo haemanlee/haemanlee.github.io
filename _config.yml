@@ -1,7 +1,7 @@
 # Site
 name: "Haeman Lee Blog"
 title: "Haeman Lee Blog"
-description: "하루에 1%씩 성장하는 "
+description: "하루에 1%씩 성장하는 삶"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
